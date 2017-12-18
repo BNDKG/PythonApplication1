@@ -38,6 +38,3 @@ if __name__=="__main__":
 
     asdf=1
 
-
-    asdf=1
-
